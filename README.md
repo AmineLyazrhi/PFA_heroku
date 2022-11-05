@@ -1,3 +1,8 @@
-"# prjt1" 
-"# PFA_local" 
-"# PFA_heroku" 
+Système de veille : Une application Web 
+
+• Alerte l’utilisateur des nouvelles productions scientifiques par thématiques 
+
+• Le système a été réalisée par : Python( Selenium, BeutifulSoup, Django)
+
+# Cette version est pour le déploiement sur heroko 
+
